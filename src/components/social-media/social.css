@@ -1,0 +1,10 @@
+.social-divs{
+    height: 400px;
+    width: 450px;
+    border: 2px;
+    border-color: black;
+    display: inline-block;
+    border-style: ridge;
+    
+}
+
