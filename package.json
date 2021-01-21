@@ -1,4 +1,5 @@
 {
+  "homepage": "http://pablohdzc.github.io/my-app",
   "name": "phc__portafolio",
   "version": "0.1.0",
   "private": true,
@@ -27,6 +28,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
