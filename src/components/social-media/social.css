@@ -1,10 +1,50 @@
+.social-container{
+    height: 40rem;
+}
+
 .social-divs{
-    height: 400px;
-    width: 450px;
-    border: 2px;
+    height: 300px;
+    width: 350px;
+    border: 1px;
     border-color: black;
     display: inline-block;
-    border-style: ridge;
-    
+    box-shadow: 0 20px 50px rgba(0,0,0,0.8);
+    border-radius: 10px;
+
+}
+
+.facebook{
+    background-color: #3b5998;
+}
+
+.facebook img{
+    width: 200px;
+    margin-top: 10%; 
+    margin-left: 15%;
+
+}
+
+.youtube{
+    background-color: #c4302b;
+}
+
+.youtube img{
+    width: 200px;
+    margin-top: 14%; 
+    margin-left: 24%;
+}
+
+.twitter{
+    background-color: #00acee;
+}
+
+.twitter img{
+    width: 160px;
+    margin-top: 20%; 
+    margin-left: 28%;
+}
+
+.facebook:hover{
+
 }
 
