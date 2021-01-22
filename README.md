@@ -4,4 +4,6 @@ Se diseño este portafolio el cual sera de utilidad como pagina de presentación
 ### English
 This web page was created to present the infromation, carrer, and social media to show this to the client or someone interested in the user
 
+## Online view:
+https://pablotz.github.io/phc__portafolio/
 
