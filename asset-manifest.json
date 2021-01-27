@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/phc__portafolio/static/css/main.d73e9bab.chunk.css",
-    "main.js": "/phc__portafolio/static/js/main.7539a95e.chunk.js",
-    "main.js.map": "/phc__portafolio/static/js/main.7539a95e.chunk.js.map",
+    "main.css": "/phc__portafolio/static/css/main.0b00c69d.chunk.css",
+    "main.js": "/phc__portafolio/static/js/main.a11a2367.chunk.js",
+    "main.js.map": "/phc__portafolio/static/js/main.a11a2367.chunk.js.map",
     "runtime-main.js": "/phc__portafolio/static/js/runtime-main.46b21283.js",
     "runtime-main.js.map": "/phc__portafolio/static/js/runtime-main.46b21283.js.map",
     "static/js/2.0aa25eaa.chunk.js": "/phc__portafolio/static/js/2.0aa25eaa.chunk.js",
@@ -10,9 +10,14 @@
     "static/js/3.c68035ac.chunk.js": "/phc__portafolio/static/js/3.c68035ac.chunk.js",
     "static/js/3.c68035ac.chunk.js.map": "/phc__portafolio/static/js/3.c68035ac.chunk.js.map",
     "index.html": "/phc__portafolio/index.html",
-    "static/css/main.d73e9bab.chunk.css.map": "/phc__portafolio/static/css/main.d73e9bab.chunk.css.map",
+    "static/css/main.0b00c69d.chunk.css.map": "/phc__portafolio/static/css/main.0b00c69d.chunk.css.map",
     "static/js/2.0aa25eaa.chunk.js.LICENSE.txt": "/phc__portafolio/static/js/2.0aa25eaa.chunk.js.LICENSE.txt",
     "static/media/1.0889a632.jpg": "/phc__portafolio/static/media/1.0889a632.jpg",
+    "static/media/10.bc461b8e.jpeg": "/phc__portafolio/static/media/10.bc461b8e.jpeg",
+    "static/media/11.c8a14f9c.jpeg": "/phc__portafolio/static/media/11.c8a14f9c.jpeg",
+    "static/media/12.cb4c637d.jpeg": "/phc__portafolio/static/media/12.cb4c637d.jpeg",
+    "static/media/13.27e3c9ec.jpeg": "/phc__portafolio/static/media/13.27e3c9ec.jpeg",
+    "static/media/14.20b3d0eb.jpeg": "/phc__portafolio/static/media/14.20b3d0eb.jpeg",
     "static/media/2.18d10997.jpg": "/phc__portafolio/static/media/2.18d10997.jpg",
     "static/media/3.84c855ae.jpg": "/phc__portafolio/static/media/3.84c855ae.jpg",
     "static/media/4.96d5d527.jpg": "/phc__portafolio/static/media/4.96d5d527.jpg",
@@ -30,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.46b21283.js",
     "static/js/2.0aa25eaa.chunk.js",
-    "static/css/main.d73e9bab.chunk.css",
-    "static/js/main.7539a95e.chunk.js"
+    "static/css/main.0b00c69d.chunk.css",
+    "static/js/main.a11a2367.chunk.js"
   ]
 }
