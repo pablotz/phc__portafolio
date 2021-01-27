@@ -44,7 +44,35 @@
     margin-left: 28%;
 }
 
-.facebook:hover{
+@media screen and (max-width: 400px) {
 
-}
+    .facebook img{
+        width: 150px;
+        margin-top: 6%; 
+        margin-left: 12%;
+    
+    }
+
+    .youtube img{
+        width: 150px;
+        margin-top: 10%; 
+        margin-left: 24%;
+    }
+
+    .twitter img{
+        width: 110px;
+        margin-top: 20%; 
+        margin-left: 30%;
+    } 
+
+    .social-divs{
+        height: 200px;
+        width: 250px;
+        border: 1px;
+        border-color: black;
+        display: inline-block;
+        box-shadow: 0 20px 50px rgba(0,0,0,0.8);
+        border-radius: 10px;
+    }
+  }
 

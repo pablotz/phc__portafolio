@@ -15,11 +15,13 @@ import './components/contact/contact.css'
 function App() {
   return (
     <div className="App">
-      <Header></Header>
-      <Presentation></Presentation>
-      <Carrer></Carrer>
-      <Social></Social>
-      <Contact></Contact>
+      <div className="w-100">
+        <Header></Header>
+        <Presentation></Presentation>
+        <Carrer></Carrer>
+        <Social></Social>
+        <Contact></Contact>
+      </div>
     </div>
   );
 }

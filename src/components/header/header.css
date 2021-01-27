@@ -11,6 +11,15 @@ html {
   margin: 0 auto;
   transform: translateY(-50%);
 }
+@media screen and (max-width: 400px) {
+  .nav-bar-info {
+    position: absolute;
+    top: 5%;
+    right: 0;
+    left: 10%;
+    display: table;
+  }
+}
 
 .nav-bar-info a {
   position: relative;

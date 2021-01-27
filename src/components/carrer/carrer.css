@@ -22,3 +22,14 @@
     margin-left: 10%;
 }
 
+@media screen and (max-width: 400px) {
+ .content{
+    padding-top: 1%;
+ }
+
+ .diagonal-box {
+    height: 40rem;
+    margin-top: 30%;
+} 
+}
+

@@ -45,3 +45,16 @@ hr{
     text-underline-position: auto;
   }
 
+  @media screen and (max-width: 400px) {
+    .icons{
+        width: 15%;
+        opacity: 1;
+    }
+    
+    .iconsL{
+        width: 15%;
+        opacity:1;
+    }
+
+}  
+
